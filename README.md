@@ -1,6 +1,6 @@
 ![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
-![MCP2542_click]()
+![MCP2542_click](mcp2542.png)
 
 ---
 [Product Page](http://www.mikroe.com/click/mcp2542)
